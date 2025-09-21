@@ -56,3 +56,4 @@
 ## 📬 Contact Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dmitriykl/)  
+🔗 [Email](d.kolisnyk@protonmail.com) 
