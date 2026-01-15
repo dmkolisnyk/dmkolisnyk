@@ -8,17 +8,17 @@
 ### Additional Programming Languages
 [![Langs](https://skillicons.dev/icons?i=py,rust)](https://skillicons.dev)
 
-# Front End Tech Stack
-[![Langs](https://skillicons.dev/icons?i=py,rust)](https://skillicons.dev)
+### Front End Tech Stack
+[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,tauri)](https://skillicons.dev)
 
 ### Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=laravel,fastapi,django,vue,react,tauri,jquery,)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=vue,react,tauri,jquery,expressjs,laravel,fastapi,django,laravel,fastapi,django)](https://skillicons.dev)
 
 ### Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=gulp,npm,webpack,vite,docker,postman)](https://skillicons.dev)
 
-### Databases & Systems  
-[![DataBases](https://skillicons.dev/icons?i=mysql,postgres,linux,git)](https://skillicons.dev)
+### Databases
+[![DataBases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ---
 
@@ -27,9 +27,8 @@
 ✅ Architecture and development of full-scale web applications: **frontend + backend**  
 ✅ Design and implementation of **REST APIs**, **microservices architecture**  
 ✅ Technical leadership, mentoring, code reviews, participation in architectural decisions  
-✅ Strong proficiency in: **TypeScript, PHP, Python, Rust, C#, JavaScript, SQL, PostgreSQL, FastAPI, Django, Laravel**  
-✅ Frontend development using modern frameworks (**React, Vue, etc.**)  
-✅ Experience with **CI/CD, containerization, cloud platforms (Docker, AWS, Jenkins)**  
+✅ Strong proficiency in: **TypeScript, JavaScript, PHP, Python, Rust, SQL, PostgreSQL, FastAPI, Django, Laravel**  
+✅ Frontend development using modern frameworks (**React, Vue**)  
 ✅ Deep understanding of **databases, query optimization, schema design**  
 ✅ Agile/Scrum development, cross-functional team collaboration (**Dev, QA, DevOps**)  
 ✅ Tools and environments: **Git, GitHub, JIRA, Swagger and more**
