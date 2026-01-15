@@ -12,7 +12,7 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,tauri)](https://skillicons.dev)
 
 ### Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=vue,react,tauri,jquery,expressjs,laravel,fastapi,django,laravel,fastapi,django)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=vue,react,tauri,jquery,expressjs,laravel,fastapi,django)](https://skillicons.dev)
 
 ### Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=gulp,npm,webpack,vite,docker,postman)](https://skillicons.dev)
