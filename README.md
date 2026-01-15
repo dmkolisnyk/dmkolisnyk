@@ -2,8 +2,14 @@
 
 ## 🚀 Tech Stack
 
-### Languages  
-[![Langs](https://skillicons.dev/icons?i=php,py,rust,ts,js,cs,bash,html,css)](https://skillicons.dev)
+### Main Programming Languages  
+[![Langs](https://skillicons.dev/icons?i=js,ts,nodejs,php)](https://skillicons.dev)
+
+### Additional Programming Languages
+[![Langs](https://skillicons.dev/icons?i=py,rust)](https://skillicons.dev)
+
+# Front End Tech Stack
+[![Langs](https://skillicons.dev/icons?i=py,rust)](https://skillicons.dev)
 
 ### Frameworks & Libraries  
 [![Frameworks](https://skillicons.dev/icons?i=laravel,fastapi,django,vue,react,tauri,jquery,)](https://skillicons.dev)
